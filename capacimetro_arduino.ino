@@ -2,7 +2,6 @@
    Aula Curso Arduino Básico ao Avançado e prototipagem
    Instrutor Otávio Jesus França Oliveira
    Sorocaba - SP
-   otaviojf_oliveira@outlook.com
  */
 
 
